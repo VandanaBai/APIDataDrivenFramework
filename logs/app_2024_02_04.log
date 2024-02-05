@@ -1,0 +1,6 @@
+[INFO ] 2024-02-04 21:20:58.257 [main] UsersTest - Create excel and add new sheet if it does not exist
+[INFO ] 2024-02-04 21:20:59.173 [main] UsersTest - Excel created and colors filled
+[INFO ] 2024-02-04 21:20:59.181 [main] UsersTest - create new user
+[INFO ] 2024-02-04 21:21:02.140 [main] UsersTest - post req completed
+[INFO ] 2024-02-04 21:21:02.144 [main] UsersTest - get a  user details by passing user name
+[INFO ] 2024-02-04 21:21:07.340 [main] UsersTest - delete user by passing his username

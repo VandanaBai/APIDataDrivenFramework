@@ -1,0 +1,30 @@
+[INFO ] 2024-02-05 14:34:20.205 [main] UsersTest2 - create new user
+[INFO ] 2024-02-05 14:34:23.261 [main] UsersTest2 - post req completed
+[INFO ] 2024-02-05 14:34:23.276 [main] UsersTest2 - get a  user details by passing user name
+[INFO ] 2024-02-05 14:34:27.977 [main] UsersTest2 - delete user by passing his username
+[INFO ] 2024-02-05 14:35:58.399 [main] UsersTest2 - create new user
+[INFO ] 2024-02-05 14:36:01.076 [main] UsersTest2 - post req completed
+[INFO ] 2024-02-05 14:36:01.089 [main] UsersTest2 - get a  user details by passing user name
+[INFO ] 2024-02-05 14:36:05.944 [main] UsersTest2 - delete user by passing his username
+[INFO ] 2024-02-05 14:40:35.651 [main] UsersTest2 - create new user
+[INFO ] 2024-02-05 14:40:38.539 [main] UsersTest2 - post req completed
+[INFO ] 2024-02-05 14:40:38.554 [main] UsersTest2 - get a  user details by passing user name
+[INFO ] 2024-02-05 14:41:01.620 [main] UsersTest2 - delete user by passing his username
+[INFO ] 2024-02-05 14:42:49.621 [main] UsersTest2 - create new user
+[INFO ] 2024-02-05 14:42:52.470 [main] UsersTest2 - post req completed
+[INFO ] 2024-02-05 14:42:52.485 [main] UsersTest2 - get a  user details by passing user name
+[INFO ] 2024-02-05 14:42:57.637 [main] UsersTest2 - delete user by passing his username
+[INFO ] 2024-02-05 15:41:11.885 [main] UsersTest - Create excel and add new sheet if it does not exist
+[INFO ] 2024-02-05 15:41:12.189 [main] UsersTest - Excel created and colors filled
+[INFO ] 2024-02-05 15:41:12.191 [main] UsersTest - create new user
+[INFO ] 2024-02-05 15:41:13.677 [main] UsersTest - post req completed
+[INFO ] 2024-02-05 15:41:13.678 [main] UsersTest - get a  user details by passing user name
+[INFO ] 2024-02-05 15:41:18.006 [main] UsersTest - delete user by passing his username
+[INFO ] 2024-02-05 15:53:15.345 [main] UsersTest2 - create new user
+[INFO ] 2024-02-05 15:53:18.466 [main] UsersTest2 - post req completed
+[INFO ] 2024-02-05 15:53:18.478 [main] UsersTest2 - get a  user details by passing user name
+[INFO ] 2024-02-05 15:53:23.427 [main] UsersTest2 - delete user by passing his username
+[INFO ] 2024-02-05 15:57:07.039 [main] UsersTest2 - create new user
+[INFO ] 2024-02-05 15:57:10.005 [main] UsersTest2 - post req completed
+[INFO ] 2024-02-05 15:57:10.018 [main] UsersTest2 - get a  user details by passing user name
+[INFO ] 2024-02-05 15:57:14.996 [main] UsersTest2 - delete user by passing his username

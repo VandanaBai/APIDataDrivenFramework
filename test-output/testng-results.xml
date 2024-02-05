@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-05T14:42:48 IST" name="petstore" finished-at="2024-02-05T14:42:59 IST" duration-ms="10268">
+    <groups>
+    </groups>
+    <test started-at="2024-02-05T14:42:48 IST" name="petuserstests" finished-at="2024-02-05T14:42:59 IST" duration-ms="10268">
+      <class name="api.tests.UsersTest2">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:api.tests.UsersTest2@1a942c18]" started-at="2024-02-05T14:42:49 IST" name="setUp" finished-at="2024-02-05T14:42:49 IST" duration-ms="500" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testCreateUser()[pri:1, instance:api.tests.UsersTest2@1a942c18]" started-at="2024-02-05T14:42:49 IST" name="testCreateUser" finished-at="2024-02-05T14:42:52 IST" duration-ms="2857" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCreateUser -->
+        <test-method signature="testGetUserByName()[pri:2, instance:api.tests.UsersTest2@1a942c18]" started-at="2024-02-05T14:42:52 IST" name="testGetUserByName" finished-at="2024-02-05T14:42:54 IST" duration-ms="2050" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetUserByName -->
+        <test-method signature="testUpdateUserByName()[pri:3, instance:api.tests.UsersTest2@1a942c18]" started-at="2024-02-05T14:42:54 IST" name="testUpdateUserByName" finished-at="2024-02-05T14:42:57 IST" depends-on-methods="api.tests.UsersTest2.testCreateUser" duration-ms="3097" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUpdateUserByName -->
+        <test-method signature="testDeleteUserByName()[pri:4, instance:api.tests.UsersTest2@1a942c18]" started-at="2024-02-05T14:42:57 IST" name="testDeleteUserByName" finished-at="2024-02-05T14:42:59 IST" depends-on-methods="api.tests.UsersTest2.testCreateUser" duration-ms="1505" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDeleteUserByName -->
+      </class> <!-- api.tests.UsersTest2 -->
+    </test> <!-- petuserstests -->
+  </suite> <!-- petstore -->
+</testng-results>
